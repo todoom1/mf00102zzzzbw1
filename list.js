@@ -1,32 +1,32 @@
 window["document"]['getElementById']("bsj")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly93eC5ndGx5c2MuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMzQ1MjMyNzUmdG9wSWQ9MTU5NTY3NA"), '_blank')
 });
 window["document"]['getElementById']("st")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly9sZWp2YS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDU4JnRvcElkPTI2NTcxNTImc2VsZlBsYW5JZD0yMDcyMTA4"), '_blank')
 });
 window["document"]['getElementById']("cf")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnB0PThDOTA5QUZCLUZCMkYtNjREQy1GNjY1LTNGNjczQ0M2MkY1RA"), '_blank')
 });
 window["document"]['getElementById']("wd")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly9vbmtyY3kuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTAyMCZ0b3BJZD0zODAyNzcyNw"), '_blank')
 });
 window["document"]['getElementById']("xy")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly9hbGl1YS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDU3JnRvcElkPTQxNTE3NzQxNjYzODQ2MTE"), '_blank')
 });
 window["document"]['getElementById']("gjr")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly90ei53eGdqcjUuY2MvYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIzMDQmdG9wSWQ9MTc3NDEwNQ"), '_blank')
 });
 window["document"]['getElementById']("jl")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIwODEmdG9wSWQ9MzAxNzI0MCZzZWxmUGxhbklkPTI1ODU2OTE"), '_blank')
 });
 window["document"]['getElementById']("sj")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly94anZ1ZWIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTAxMCZ0b3BJZD0yNDkxNzc1Njc1NjE0ODY1"), '_blank')
 });
 window["document"]['getElementById']("xsd")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly9kZXJlYXIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA1OSZ0b3BJZD00NjczNCZzZWxmUGxhbklkPTE3MzgwNw=="), '_blank')
 });
 window["document"]['getElementById']("df")['addEventListener']("click", function () {
-    window['open'](atob("1111"), '_blank')
+    window['open'](atob("aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMwJnRvcElkPTEzODA2DQ=="), '_blank')
 });
 window["document"]['getElementById']("bsjn")['innerHTML'] = ("保时捷");
 window["document"]['getElementById']("stn")['innerHTML'] = ("胜天国际");
@@ -62,15 +62,3 @@ if ('serviceWorker' in navigator) {
       console.log('SW registered');
     });
 }
-//保时捷：https://wx.gtlysc.com/app/register.php?site_id=134523275&topId=1595674
-
-胜天轨迹：https://lejva.tprsmi.com/app/register.php?site_id=1058&topId=2657152&selfPlanId=2072108  
-超凡国际：https://pkajim.hfjcl.com/app/register.php?site_id=1032&pt=8C909AFB-FB2F-64DC-F665-3F673CC62F5D   
-问鼎娱乐：https://onkrcy.fnbpsw.com/app/register.php?site_id=1020&topId=38027727       
-星耀国际：https://aliua.tprsmi.com/app/register.php?site_id=1057&topId=4151774166384611    
-
-国际人：https://tz.wxgjr5.cc/app/register.php?site_id=2304&topId=1774105
-
-君临国际 ：https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=3017240&selfPlanId=2585691
-
-赏金国际：https://xjvueb.fnbpsw.com/app/register.php?site_id=1010&topId=2491775675614865
