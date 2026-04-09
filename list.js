@@ -41,7 +41,7 @@ window["document"]['getElementById']("dfn")['innerHTML'] = ("巅峰国际");
 
 window["document"]['getElementById']("3")['innerHTML'] = ("FIFA World Cup 2026™<br>官方合作广告商");
 window["document"]['getElementById']("2")['innerHTML'] = ("🔥十年信誉平台<br>⚽世界杯官方投注平台");
-window["document"]['getElementById']("1")['innerHTML'] = "MF33.MY";
+window["document"]['getElementById']("1")['innerHTML'] = "MF88.MY";
 
 
 function showPopupOnce(popupId = 'sw_loaded') {
@@ -50,7 +50,7 @@ function showPopupOnce(popupId = 'sw_loaded') {
   if (localStorage.getItem(key)) {
     return; 
   }
-  alert('欢迎访问MF33！');
+  alert('欢迎访问MF88！');
   localStorage.setItem(key, Date.now().toString());
 }
 window.addEventListener('load', function() {
