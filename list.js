@@ -62,3 +62,15 @@ if ('serviceWorker' in navigator) {
       console.log('SW registered');
     });
 }
+//保时捷：https://wx.gtlysc.com/app/register.php?site_id=134523275&topId=1595674
+
+胜天轨迹：https://lejva.tprsmi.com/app/register.php?site_id=1058&topId=2657152&selfPlanId=2072108  
+超凡国际：https://pkajim.hfjcl.com/app/register.php?site_id=1032&pt=8C909AFB-FB2F-64DC-F665-3F673CC62F5D   
+问鼎娱乐：https://onkrcy.fnbpsw.com/app/register.php?site_id=1020&topId=38027727       
+星耀国际：https://aliua.tprsmi.com/app/register.php?site_id=1057&topId=4151774166384611    
+
+国际人：https://tz.wxgjr5.cc/app/register.php?site_id=2304&topId=1774105
+
+君临国际 ：https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=3017240&selfPlanId=2585691
+
+赏金国际：https://xjvueb.fnbpsw.com/app/register.php?site_id=1010&topId=2491775675614865
