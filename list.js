@@ -28,6 +28,10 @@ window["document"]['getElementById']("xsd")['addEventListener']("click", functio
 window["document"]['getElementById']("df")['addEventListener']("click", function () {
     window['open'](atob("aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMwJnRvcElkPTEzODA2DQ=="), '_blank')
 });
+window["document"]['getElementById']("hy")['addEventListener']("click", function () {
+    window['open'](atob("aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTEzNzMzJnNlbGZQbGFuSWQ9MTEzNw=="), '_blank')
+});
+window["document"]['getElementById']("hyn")['innerHTML'] = ("汇赢国际");
 window["document"]['getElementById']("bsjn")['innerHTML'] = ("保时捷");
 window["document"]['getElementById']("stn")['innerHTML'] = ("胜天国际");
 window["document"]['getElementById']("cfn")['innerHTML'] = ("超凡国际");
@@ -62,4 +66,3 @@ if ('serviceWorker' in navigator) {
       console.log('SW registered');
     });
 }
-//aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTEzNzMzJnNlbGZQbGFuSWQ9MTEzNw==
